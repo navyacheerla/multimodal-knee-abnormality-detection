@@ -1,4 +1,4 @@
-# Multimodal AI for 12 Knee Abnormalities Detection
+# Multimodal Deep Learning AI for 12 Knee Abnormalities Detection
 
 An end-to-end Multimodal Deep Learning pipeline designed to detect 12 major knee abnormalities by fusing **Magnetic Resonance Imaging (MRI)** scans with **Unstructured Clinical Radiology Reports**.
 
